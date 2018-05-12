@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31364'
     url: http://www.gutenberg.org/2009/agents/31364
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33210#The-Frontier-Boys-in-the-Grand-Canyon--Or-A-Search-for-Treasure
 gutenberg_issued: '2010-07-20'
 gutenberg_type: Text
 identifiers:
